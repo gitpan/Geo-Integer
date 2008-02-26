@@ -1,0 +1,14 @@
+Changes
+lib/Geo/Integer.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml
+README
+scripts/list.pl
+scripts/list.png
+t/001_load.t
+t/002_integer.t
+t/002_latlon.t
+t/003_identity.t
+Todo

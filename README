@@ -1,0 +1,11 @@
+To make and install
+
+cpan2rpm Geo::Integer
+rpm -Uhv perl-Geo-Integer-0.01.rpm
+
+or
+
+perl Makefile.PL
+make
+make test
+make install
